@@ -1,8 +1,8 @@
-# PhotographyToolBox
+# PhotographyToolKit
 
 
 
-PhotographyToolBox is a command-line application being written in Python that can organize and manipulate collections of photographs automatically.
+PhotographyToolKit is a command-line application being written in Python that can organize and manipulate collections of photographs automatically.
 
 <img src="https://github.com/devalparikh/PhotographyToolBox/blob/master/DemoPPTB.gif?raw=true">
 
